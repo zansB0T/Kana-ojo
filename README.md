@@ -1,0 +1,2 @@
+# Kana-ojo
+Bot kana
